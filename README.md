@@ -12,7 +12,7 @@ A Sustainable way to Tokenization and Fractionalization On-chain and Real World 
 3. [🛠 Our Codes/Libraries](#our-codes/libraries)
 4. [🪙rTokens](#rtokens)
 5. [📝 Conclusion](#conclusion)
-6. [📃 Our Whitepaper ](https://xfrac.gitbook.io/the-rpaper-1/)
+6. [📃 The rPAPER](https://xfrac.gitbook.io/the-rpaper-1/)
 
 <a name="overview"></a>
 ## Overview
