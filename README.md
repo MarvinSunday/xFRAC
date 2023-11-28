@@ -47,3 +47,10 @@ rTokens are 1:1 IOU Tokens representing each NFT locked in the fractional NFT Va
 3. They allow for easy NFT redemption from xFRAC wallets, as each unit of a rToken represents an NFT.
 <a name="conclusion"></a>
 ## Conclusion 📝
+xFRAC is the future of NFT trading and Liquidity on the XRP Ledger and in the real world. Currently,  xFRAC rTokenization ( NFT Fractionalization Process) is applied in the real world through the Tokenization and Fractionalization of Farming Investments and Real Estate Deeds. See the rPAPER for details.
+For the xFRAC platform to function, XLS-30D and XLS-39D must be amended on the XRP Ledger.
+Catch up on all things xFRAC in our Linktree https://linktr.ee/xfrac/
+
+The xFRAC Marketplace  is an XRPL Believers and Enthusiasts venture. Above the code and the real world applications, we seek to make other XRPL Users 589 steps ahead of the Crypto space. 
+
+~Marvin & Obiajulu 
