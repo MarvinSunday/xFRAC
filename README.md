@@ -20,3 +20,22 @@ xFRAC is XRP Ledger’s First Native Fractional NFT Marketplace. This platform h
 
 <a name= "xfrac"></a>
 ## xFRAC 
+To attain a sustainable Tokenization, Fractionalization, Liquidity Provision, and trading of On-chain and Real World assets in the form of Fractional NFT on the Ledger, the xFRAC created the following products. Some of these products are extensions/UIs of XRP Ledger Native Objects, and they help sustain the NFT and fractional ecosystem on the XRPL. They are listed below:
+### xFRAC Wallets
+xFRAC wallets are XRPL rToken Issuer Wallets that hold NFTs and receive exchange fees on the xFRAC Marketplace.
+it is safe to say xFRAC wallets are vaulting and exchanging machines for NFTs as their purpose is to do the following;
+1. Receive NFTs and issue the corresponding rTokens.
+2. Receive rTokens and release NFTs.
+3. Receive Fractioning and De-fractioning exchange fees in XRP, XFC, and rTokens.
+This made possible by the current bug fix that allows issuer wallets to exchange Tokens and NFT with thier issued currency.
+### xFRADEX
+xFRADEX is a UI of the XRP Ledger Native DEX tailored toward trading rTokens on xFRAC. This DEX interface saves the xFRAC Team from having to list each rToken on other DEXs, as users can easily buy or sell their rTokens on the DEX. 
+### xFRAPOOL
+xFRAPOOL is a UI of the XRP Ledger Native Automatic Market Maker Liquidity provision and Swap function.
+With the Fractional NFT version we are using (IOU Tokens), it will be impossible to maintain a stable price of the Fractional NFTs without an AMM function. The integration of XRP Ledger Native AMM helps our Fractional NFTs (rTokens) to remain stable and liquid.
+xFRAPOOL saves xFRAC Users the time of adding/removing Liquidity and Swapping through a raw transaction function or seeking for XRPL DEXs that support rToken LP Pools.
+### rToken Governance & xFAC DAO
+xFRAC DAO is the body of rToken Holders, rToken LP Holders, and our Utility Token holders. They Govern the platform through an On-chain Governance mechanism called the rToken Governance Process. They vote and raise proposals on matters of our utility Token, rTokens, and the Governance Process.
+We are integrating Rippled scripts and APIs that track votes and compute the results from the Governance Process in real time. 
+<a name="our-codes/libraries"></a>
+## Our Codes/Libraries 
