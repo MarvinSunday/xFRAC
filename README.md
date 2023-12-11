@@ -32,7 +32,7 @@ xFRADEX is a UI of the XRP Ledger Native DEX tailored toward trading rTokens on 
 xFRAPOOL is a UI of the XRP Ledger Native Automatic Market Maker Liquidity provision and Swap function.
 With the Fractional NFT version we are using (IOU Tokens), it will be impossible to maintain a stable price of the Fractional NFTs without an AMM function. The integration of XRP Ledger Native AMM helps our Fractional NFTs (rTokens) to remain stable and liquid.
 xFRAPOOL saves xFRAC Users the time of adding/removing Liquidity and Swapping through a raw transaction function or seeking for XRPL DEXs that support rToken LP Pools.
-### rToken Governance & xFAC DAO 🗳️
+### rToken Governance & xFRAC DAO 🗳️
 xFRAC DAO is the body of rToken Holders, rToken LP Holders, and our Utility Token holders. They Govern the platform through an On-chain Governance mechanism called the rToken Governance Process. They vote and raise proposals on matters of our utility Token, rTokens, and the Governance Process.
 We are integrating Rippled scripts and APIs that track votes and compute the results from the Governance Process in real time. 
 <a name="our-codes/libraries"></a>
